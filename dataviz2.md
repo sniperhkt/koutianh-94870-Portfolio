@@ -9,4 +9,4 @@ Here's the embeded data visualization from OECD:
 ## Part 2: Working with Flourish
 
 This is the grid of lines visualization of the same OECD government debt data visualized using Flourish:
-<iframe src='https://flo.uri.sh/visualisation/3182545/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/3182545/?utm_source=embed&utm_campaign=visualisation/3182545' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/3182545" data-url="https://flo.uri.sh/visualisation/3182545/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
