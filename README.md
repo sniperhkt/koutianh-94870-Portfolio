@@ -9,5 +9,4 @@ I'm currently working on transportation system research and will work in the aut
 
 # Portfolio
 Assignment 2: [Visualizing government debt](dataviz2.md)
-
 Assignment 3 & 4: [Critique by Design](assignment3and4.md)
