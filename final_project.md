@@ -65,3 +65,18 @@ No figures needed
 <iframe src='https://flo.uri.sh/visualisation/3331865/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/3331865/?utm_source=embed&utm_campaign=visualisation/3331865' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ## User Research
+
+### Target audience
+The main target audience is general consumers who buy things that come with containers and packages. The purpose of this story is to raise consumer awareness of how much waste is generated simply due to packaging. The expected result is that consumers will be more aware of the package that comes with the products they purchase, and whenever possible, choose packagins that are more sustainable.
+
+### How to identify representative individuals
+By looking at my personal connections, I can choose indivuals with different buying habits: by type of product they purchase and by how much they value aesthetics of packaging and the unboxing experience.
+
+### Interview question
+* What did you learned from the storyline and visualizations?
+* What was your feeling after reading the story?
+* What part of the story is confusing or unintuitive to you?
+* How do you like the aesthetics and color use of the sketch?
+* Are there anything you would like to change, either to the storyline or the presentation?
+
+Due to time constrains, review scripts and take away messages are not recorded.
