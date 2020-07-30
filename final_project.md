@@ -10,6 +10,32 @@ A lot of people enjoy the unboxing experience after purchases of new items. I'm 
 
 ### Story Arc
 
+#### What are container and packaging waste
+Graphic illustration of what are they and where do they come from
+
+#### How are they disposed overall
+Break down of the disposal methods in total count
+Highlight that recycle is the best disposal method
+
+#### The historical record of container and packaging waste generated
+Stacked bar chart showing amount of waste generated for each category
+
+#### How much is recycled
+Stacked bar chart of actual amount recycled and line chart showing recycling rate
+
+#### Potential harm of different disposal method
+The harm analysis is provided in [this report](https://www.sasb.org/wp-content/uploads/2019/08/RT0204_CP_Brief1.pdf) published by Sustainability Accounting Standards Board in 2019.
+* Recycle - processing cost and potential pollution during the recycling process
+* Combustion with energy recovery - greenhouse gas and/or harmful gas emission
+* Landfill - soil and water pollution
+
+#### Disposal in 2017
+Tree map showing methods and volume of disposal by category by method in 2017
+
+#### Implications
+* Promote use of recycable packaging materials
+* Simplify packaging to reduce waste generation
+
 ### Delivery Format
 The data story will be presented using Shorthand.
 
@@ -18,5 +44,24 @@ The main source of data comes from US Environmental Protection Agency (USEPA), w
 The data can be found on [Environmental Protection Agency](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/containers-and-packaging-product-specific-data). A copy is also provided [`final project.pdf`](final_project_data.pdf).
 
 ## Initial Sketch
+
+#### What are container and packaging waste
+![alt text](img/madeup.png)
+
+#### How are they disposed overall
+![alt text](img/disposal.png)
+
+#### The historical record of container and packaging waste generated
+![alt text](img/generation.png)
+
+#### How much is recycled
+![alt text](img/recycle.png)
+![alt text](img/recyclerate.png)
+
+#### Potential harm of different disposal method
+No figures needed
+
+#### Disposal in 2017
+<iframe src='https://flo.uri.sh/visualisation/3331865/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/3331865/?utm_source=embed&utm_campaign=visualisation/3331865' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ## User Research
