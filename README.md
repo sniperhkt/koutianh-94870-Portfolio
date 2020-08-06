@@ -10,5 +10,5 @@ I'm currently working on transportation system research and will work in the aut
 # Portfolio
 * Assignment 2: [Visualizing government debt](dataviz2.md)
 * Assignment 3 & 4: [Critique by Design](assignment3and4.md)
-* Final Project Part I: [Story with Data: Where does our "unboxing experience" end up?](final_project.md)
-* Final Project Part II: [Story with Data: Where does our "unboxing experience" end up?](\blame\final_project.md#L84)
+* Final Project Part I: [Story with Data: Where does our "unboxing experience" end up?](final_project_p1.md)
+* Final Project Part II: [Story with Data: Where does our "unboxing experience" end up?](final_project_p2.md)
