@@ -41,7 +41,7 @@ The data story will be presented using Shorthand.
 
 ## Data Source
 The main source of data comes from US Environmental Protection Agency (USEPA), which provides data on total volume of container and packaging waste.
-The data can be found on [Environmental Protection Agency](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/containers-and-packaging-product-specific-data). A copy is also provided [`final project.pdf`](final_project_data.pdf).
+The data can be found on [Environmental Protection Agency](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/containers-and-packaging-product-specific-data). A copy is also provided [`final project.pdf`](final_project_data.csv).
 
 ## Initial Sketch
 
@@ -80,3 +80,5 @@ By looking at my personal connections, I can choose indivuals with different buy
 * Are there anything you would like to change, either to the storyline or the presentation?
 
 Due to time constrains, review scripts and take away messages are not recorded.
+
+# Final Project Part II
