@@ -80,5 +80,3 @@ By looking at my personal connections, I can choose indivuals with different buy
 * Are there anything you would like to change, either to the storyline or the presentation?
 
 Due to time constrains, review scripts and take away messages are not recorded.
-
-# Final Project Part II
